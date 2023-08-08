@@ -17,9 +17,9 @@ The Product Management System API is the backend component of the PMS applicatio
 
 ## Technologies Used
 
-![.NET Web API](https://img.shields.io/badge/.NET%20Web%20API-v5.0-blue)
-![C#](https://img.shields.io/badge/C%23-v10.0-blue)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-v6.0-blue)
+![.NET Web API Core](https://img.shields.io/badge/.NET%20Web%20API-v7.0-blue)
+![C#](https://img.shields.io/badge/C%23-v11.0-blue)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-v7.0-blue)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-blue)
 
 - **.NET Web API:** A framework for building HTTP-based services that can be consumed by various clients.
